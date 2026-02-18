@@ -35,12 +35,10 @@ This repository is more than just code. It is a curated exhibition of **statisti
 ## 📸 𝐕𝐢𝐬𝐮𝐚𝐥 𝐒𝐧𝐞𝐚𝐤 𝐏𝐞𝐞𝐤
 *Data is beautiful. Here is a glimpse of the insights generated in this repository:*
 
-> 💡 **Achraf:** *(Replace these placeholders with your actual stunning `.png` plots!)*
-
-| 🩺 Healthcare Correlation Matrix | 🛒 Consumer Behavior Analysis |
+| 🌿 Botanical Data Analysis (Iris) | 🎮 Video Game Industry Trends |
 | :---: | :---: |
-| <img src="https://via.placeholder.com/600x350/1a1a2e/4CBAA0?text=+Insert+Your+Seaborn+Heatmap+" width="100%" /> | <img src="https://via.placeholder.com/600x350/1a1a2e/F37626?text=+Insert+Your+Scatter+Plot+" width="100%" /> |
-| *Revealing hidden cardiac risk factors using `np.triu` masked matrices.* | *Multi-layered regression analysis of BMI vs. Medical Costs.* |
+| <img src="./05-Botanical-Research/Relation_longueur_vs_largeur_des_petales.png" width="100%" alt="Iris Petal Dimensions Joint Plot" /> | <img src="./03-Retail-Consumer-Insights/Heatmap_tous_les_genres_de_consoles_vs_platforme.png" width="100%" alt="Video Games Genre vs Platform Heatmap" /> |
+| *Bivariate joint plot investigating the relationship between petal length and width across Iris species.* | *A comprehensive heatmap visualizing average game scores by genre and platform.* |
 
 ---
 
@@ -75,7 +73,7 @@ Ready to dive in? Recreate these analyses on your local machine in under 2 minut
 
 ```bash
 # 1. Clone this masterpiece
-git clone https://github.com/achrafaky/data-science-portfolio.git
+git clone [https://github.com/achrafaky/data-science-portfolio.git](https://github.com/achrafaky/data-science-portfolio.git)
 
 # 2. Navigate to the project root
 cd data-science-portfolio
