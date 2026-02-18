@@ -1,0 +1,61 @@
+Date,Team1,Team2,Score (Team1 - Team2),FullTimeResult,Venue,City,Attendance,Goal Scorers Team 1,Goal Scorers Team 2,Team 1 Possession percentage,Team 2 Possession percentage,Team 1 Shots on Goal,Team 2 Shots on Goal,Team 1 Shot Attempts,Team 2 Shot Attempts,Team 1 Yellow Cards,Team 2 Yellow Cards,Team 1 Corner Kicks,Team 2 Corner Kicks,Team 1 Saves,Team 2 Saves
+2025-12-22,Morocco,Comoros,2 - 0,FT,Stade Prince Moulay Abdallah,Rabat,60180,Brahim Díaz - 55'Ayoub El Kaabi - 74',,69.8,30.2,7,2,16,4,3,1,5,0,2,5
+2025-12-22,Mali,Zambia,1 - 1,FT,Mohamed V Stadium,Casablanca,10124,Lassine Sinayoko - 61',Patson Daka - 90'+2',52.9,47.1,5,2,15,7,1,1,6,5,1,4
+2025-12-22,South Africa,Angola,2 - 1,FT,Stade de Marrakech,Marrakech,4013,Oswin Appollis - 21'Lyle Foster - 79',Show - 35’,57.5,42.5,4,4,10,10,2,2,1,9,3,2
+2025-12-23,Egypt,Zimbabwe,2 - 1,FT,Le Grand Stade Agadir,Agadir,28199,Omar Marmoush - 64'Mohamed Salah - 90'+1',Prince Dube - 20',77.5,22.5,11,3,35,8,2,2,8,3,2,9
+2025-12-23,Congo DR,Benin,1 - 0,FT,Stade El Barid,Rabat,13073,"Théo Bongonda - 16'
+
+
+",,40.1,59.9,3,2,11,12,3,3,5,5,2,2
+2025-12-23,Senegal,Botswana,3 - 0,FT,Ibn Batouta Stadium,Tanger,18591,"Nicolas Jackson - 40', 58'Cherif Ndiaye - 90'",,67.8,32.2,17,0,28,4,1,2,7,2,0,14
+2025-12-23,Nigeria,Tanzania,2 - 1,FT,Complexe Sportif de Fès,Fès,11444,Semi Ajayi - 36'Ademola Lookman - 52',Charles M'Mombwa - 50',59.1,40.9,11,3,21,11,1,0,6,6,2,8
+2025-12-24,Tunisia,Uganda,3 - 1,FT,Stade Olympique de Rabat,Rabat,13387,"Ellyes Skhiri - 10'Elias Achouri - 40', 64'",Denis Omedi - 90'+2',48.8,51.2,6,1,15,9,1,2,8,2,0,3
+2025-12-24,Burkina Faso,Equatorial Guinea,2 - 1,FT,Mohamed V Stadium,Casablanca,10267,Georgi Minoungou - 90'+5'Edmond Tapsoba - 90'+8',Marvin Anieboh - 85',66.8,33.2,5,1,16,5,1,1,9,3,0,3
+2025-12-24,Algeria,Sudan,3 - 0,FT,Stade Prince Moulay Al Hassan,Rabat,16115,"Riyad Mahrez - 2', 61'Ibrahim Maza - 85'",,58,42,7,2,14,5,0,1,11,1,2,4
+2025-12-24,Ivory Coast,Mozambique,1 - 0,FT,Stade de Marrakech,Marrakech,13041,Amad - 49',,54.1,45.9,5,2,15,4,1,2,9,3,2,3
+2025-12-25,Cameroon,Gabon,1 - 0,FT,Le Grand Stade Agadir,Agadir,35200,"Etta Eyong - 6'
+
+
+",,43.2,56.8,3,2,13,12,2,1,9,5,2,2
+2025-12-26,Angola,Zimbabwe,1 - 1,FT,Stade de Marrakech,Marrakech,5110,"Gelson Dala - 24'
+
+",Knowledge Musona - 45'+6',62.8,37.2,6,4,15,17,3,4,5,6,3,5
+2025-12-26,Egypt,South Africa,1 - 0,FT,Le Grand Stade Agadir,Agadir,40219,Mohamed Salah - 45' Pen,,36.3,63.7,3,6,6,18,0,3,4,7,6,2
+2025-12-26,Zambia,Comoros,0 - 0,FT,Mohamed V Stadium,Casablanca,7829,,,47.1,52.9,0,1,10,10,2,0,6,2,0,0
+2025-12-27,Morocco,Mali,1 - 1,FT,Stade Prince Moulay Abdallah,Rabat,63844,Brahim Díaz - 45'+5',Lassine Sinayoko - 64',61,38,4,1,15,5,1,8,6,0,0,4
+2025-12-27,Benin,Botswana,1 - 0,FT,Stade Olympique de Rabat,Rabat,7462,Yohan Roche - 28',,51,48,4,1,10,5,2,2,1,1,1,3
+2025-12-27,Senegal,Congo DR,1 - 1,FT,Ibn Batouta Stadium,Tanger,41672,Sadio Mané - 69',Cédric Bakambu - 61',64,35,3,3,11,7,1,0,5,2,2,2
+2025-12-27,Uganda,Tanzania,1 - 1,FT,Stade El Barid,Rabat,10540,Uche Ikpeazu - 80',Simon Msuva - 59',55,45,6,2,14,11,3,2,7,3,1,5
+2025-12-28,Nigeria,Tunisia,3 - 2,FT,Complexe Sportif de Fès,Fès,25544,Victor Osimhen - 44'Wilfred Ndidi - 50'Ademola Lookman - 67',Montassar Talbi - 74'Ali Abdi - 87',59,40,5,2,15,8,3,0,4,6,0,2
+2025-12-28,Gabon,Mozambique,2 - 3,FT,Le Grand Stade Agadir,Agadir,9796,Pierre-Emerick Aubameyang - 45'+5'Alex Moussounda - 76',Faisal Bangal - 37'Geny Catamo - 42'Diogo Calila - 52',56,43,10,5,16,13,2,2,4,4,2,8
+2025-12-28,Equatorial Guinea,Sudan,0 - 1,FT,Mohamed V Stadium,Casablanca,8671,,Saúl Coco - 74' OG,65,34,3,2,15,13,3,3,3,3,1,3
+2025-12-28,Algeria,Burkina Faso,1 - 0,FT,Stade Prince Moulay Al Hassan,Rabat,18522,Riyad Mahrez - 23',,49,50,5,2,10,14,2,3,2,6,2,4
+2025-12-29,Ivory Coast,Cameroon,1 - 1,FT,Stade de Marrakech,Marrakech,35165,Amad - 51',Ghislain Konan - 56' OG,50,49,2,2,13,12,2,2,7,3,2,1
+2025-12-29,Angola,Egypt,0 - 0,FT,Le Grand Stade Agadir,Agadir,16090,,,44,55,4,2,16,5,1,2,4,2,2,5
+2025-12-29,Zimbabwe,South Africa,2 - 3,FT,Stade de Marrakech,Marrakech,9235,Tawanda Maswanhise - 19'Aubrey Modiba - 73' OG,Tshepang Moremi - 7'Lyle Foster - 50'Oswin Appollis - 82',34,66,3,9,10,16,1,1,3,3,6,2
+2025-12-30,Comoros,Mali,0 - 0,FT,Mohamed V Stadium,Casablanca,8842,, ,32,68,1,2,5,13,3,1,5,2,2,1
+2025-12-30,Zambia,Morocco,0 - 3,FT,Stade Prince Moulay Abdallah,Rabat,62532,,Ayoub El Kaabi - 9' 50'Brahim Díaz - 27',43,56,0,9,5,19,4,1,1,5,6,0
+2025-12-30,Tanzania,Tunisia,1 - 1,FT,Stade Olympique de Rabat,Rabat,15205,Feisal Salum - 48',Ismaël Gharbi - 43',36,64,2,2,6,6,3,1,2,2,1,1
+2025-12-30,Uganda,Nigeria,1 - 3,FT,Complexe Sportif de Fès,Fès,11545,Rogers Mato - 75',Jamal Salim - 56'Paul Onuachu - 28'Raphael Onyedika - 62', 67',28,71,1,6,9,13,1,2,2,3,3,0
+2025-12-31,Benin,Senegal,0 - 3,FT,Ibn Batouta Stadium,Tanger,26707,,Abdoulaye Seck - 38'Habib Diallo - 62'Cherif Ndiaye - 90'+7',48,51,4,6,7,10,4,1,4,4,3,4
+2025-12-31,Botswana,Congo DR,0 - 3,FT,Stade El Barid,Rabat,12569,,Nathanaël Mbuku - 31'Gaël Kakuta - 41', 60',44,55,1,6,6,28,0,0,0,3,3,1
+2025-12-31,Equatorial Guinea,Algeria,1 - 3,FT,Stade Prince Moulay Al Hassan,Rabat,15187,Emilio Nsue - 50',Zineddine Belaïd - 19'Farès Chaïbi - 25'Ibrahim Maza - 32',45,54,3,6,10,16,4,1,4,5,3,2
+2025-12-31,Sudan,Burkina Faso,0 - 2,FT,Mohamed V Stadium,Casablanca,10084,,Lassina Traoré - 16'Arsène Kouassi - 85',37,62,1,3,10,10,0,2,4,6,1,1
+2026-01-01,Gabon,Ivory Coast,2 - 3,FT,Stade de Marrakech,Marrakech,20833,Guélor Kanga - 11'Denis Bouanga - 21',Jean-Phillipe Krasso - 44'Evann Guessand - 84'Bazoumana Touré - 90'+1',33,66,3,5,9,21,2,1,2,8,2,1
+2026-01-01,Mozambique,Cameroon,1 - 2,FT,Le Grand Stade Agadir,Agadir,13093,Geny Catamo - 23',Nené - 28' OGChristian Kofane - 55',52,48,2,6,10,19,0,3,2,8,4,1
+2026-01-03,Senegal,Sudan,3 - 1,FT,Ibn Batouta Stadium,Tanger,30045,Pape Gueye - 29' 45'+3'Ibrahim Mbaye - 77',Aamir Abdallah - 6',67,32,9,3,14,9,2,2,7,4,2,6
+2026-01-04,Mali,Tunisia,1 - 1,FT-Pens,Mohamed V Stadium,Casablanca,41982,Lassine Sinayoko - 90'+6',Woyo Coulibaly - 26'Firas Chaouat - 88',27,72,1,4,8,13,4,6,4,11,3,0
+2026-01-04,Morocco,Tanzania,1 - 0,FT,Stade Prince Moulay Abdallah,Rabat,63894,Brahim Díaz - 64',,70,29,4,1,12,4,1,5,4,0,1,3
+2026-01-05,South Africa,Cameroon,1 - 2,FT,Stade El Barid,Rabat,14127,Evidence Makgopa - 88',Junior Tchamadeu - 34'Christian Kofane - 47',66,33,4,4,18,10,5,2,6,3,2,3
+2026-01-05,Egypt,Benin,3 - 1,AET,Le Grand Stade Agadir,Agadir,20191,Marwan Attia - 69'Yasser Ibrahim - 97'Mohamed Salah - 120'+4',Jodel Dossou - 83',55,44,7,3,12,8,4,4,5,5,3,2
+2026-01-06,Nigeria,Mozambique,4 - 0,FT,Complexe Sportif de Fès,Fès,14593,Ademola Lookman - 20'Victor Osimhen - 25', 47'Akor Adams - 75',,61,38,9,0,22,2,3,1,5,0,0,5
+2026-01-06,Algeria,Congo DR,1 - 0,AET,Stade Prince Moulay Al Hassan,Rabat,18837,Adil Boulbina - 119',,57,42,6,2,12,6,3,2,5,6,2,5
+2026-01-07,Ivory Coast,Burkina Faso,3 - 0,FT,Stade de Marrakech,Marrakech,24019,Amad - 20'Yan Diomande - 32'Bazoumana Touré - 87',,57,42,4,2,21,8,2,1,5,2,2,1
+2026-01-09,Mali,Senegal,0 - 1,FT,Ibn Batouta Stadium,Tanger,32385,,Iliman Ndiaye - 27',35,64,2,8,8,19,1,5,5,7,7,2
+2026-01-10,Cameroon,Morocco,0 - 2,FT,Stade Prince Moulay Abdallah,Rabat,64178,,Brahim Díaz - 26'Ismael Saibari - 74',59,40,0,3,5,9,2,2,4,7,1,0
+2026-01-10,Algeria,Nigeria,0 - 2,FT,Stade de Marrakech,Marrakech,32452,,Victor Osimhen - 47'Akor Adams - 57',42,57,0,5,3,13,5,3,2,4,3,0
+2026-01-11,Egypt,Ivory Coast,3 - 2,FT,Le Grand Stade Agadir,Agadir,31213,Omar Marmoush - 4'Ramy Rabia - 32' Mohamed Salah - 52',Ahmed Fatouh - 40' OGGuela Doué - 73',28,71,4,4,6,13,2,0,3,7,3,1
+2026-01-14,Senegal,Egypt,1 - 0,FT,Ibn Batouta Stadium,Tanger,52079,Sadio Mané - 78',,63,36,4,1,12,3,2,1,7,1,1,3
+2026-01-15,Nigeria,Morocco,0 - 0,FT-Pens,Stade Prince Moulay Abdallah,Rabat,65458,, ,51,48,1,5,2,16,2,0,1,5,5,1
+2026-01-17,Egypt,Nigeria,0 - 0,FT-Pens,Mohamed V Stadium,Casablanca,38113,, ,53,46,1,4,5,4,0,3,2,4,4,1
+2026-01-19,Senegal,Morocco,1 - 0,AET,Stade Prince Moulay Abdallah,Rabat,66526,Pape Gueye - 94',,50,49,7,4,14,21,5,2,8,10,4,6
